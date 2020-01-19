@@ -1,16 +1,16 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
+        "name":"P Sai Bhaskar",
+        "designation":"GitHub Campus Expert",
+        "twitter":"https://twitter.com/saibhaskar24",
+        "linkedin":"https://www.linkedin.com/in/psaibhaskar24",
+        "github":"https://github.com/saibhaskar24",
         "profileImage":"",
-        "website":""
+        "website":"https://saibhaskar24.github.io/"
     },
     {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Samar",
+        "designation":"Microsoft Student Partner",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
         "github":"",
@@ -18,8 +18,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Sampath",
+        "designation":"DSC Lead",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://www.github.com/",

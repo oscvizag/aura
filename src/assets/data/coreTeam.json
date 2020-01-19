@@ -1,55 +1,37 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Madhav Reddy",
+        "designation":"Organiser, GDG Vizag",
         "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/reddymadhav/",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"M.Ravikumar",
+        "designation":"Co-organiser, GDG Vizag",
         "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/ravikumar-mallajosyula-a537105/",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"V.Usha Ramani",
+        "designation":"Co-organiser,GDG Vizag,WTM Vizag",
         "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/usha-ramani-vemuru-66286723/",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"P.Sudhakar",
+        "designation":"Co-organiser, GDG Vizag",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://au.linkedin.com/in/sudhakar-pantula",
+        "github":"",
         "profileImage":"",
         "website":""
     }

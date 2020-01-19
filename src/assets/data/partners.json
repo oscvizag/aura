@@ -13,6 +13,21 @@
         "name":"GDG[x]",
         "link":"https://github.com/gdg-x",
         "img":"gdg-x.svg"
+    },
+    {
+        "name":"cardlytics",
+        "link":"https://github.com/gdg-x",
+        "img":"gdg-x.svg"
+    },
+    {
+        "name":"elastic",
+        "link":"https://github.com/gdg-x",
+        "img":"gdg-x.svg"
+    },
+    {
+        "name":"amzur",
+        "link":"https://github.com/gdg-x",
+        "img":"gdg-x.svg"
     }
 
 ]
